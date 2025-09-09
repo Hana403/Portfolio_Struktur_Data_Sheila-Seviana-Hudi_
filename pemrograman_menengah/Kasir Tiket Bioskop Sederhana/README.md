@@ -1,7 +1,7 @@
 ## Kasir Tiket Bioskop Sederhana
 
-Program simulasi **kasir tiket bioskop** berbasis console dengan menu interaktif.  
-User dapat melayani pelanggan yang ingin membeli tiket, hingga melihat total penjualan tiket.
+Program simulasi **kasir tiket bioskop** dengan menu interaktif
+User dapat melayani pelanggan yang ingin membeli tiket, hingga melihat total penjualan tiket
 
 ## Catatan
 Tiket Biasa: Rp. 40,000  
@@ -12,18 +12,18 @@ Jumlah kursi terbatas
 
 ## Fitur
 1. **Pembelian Tiket**
-   - Pilih jenis tiket (Biasa / VIP).
-   - Pilih judul film.
-   - Input jumlah tiket.
-   - Hitung total harga otomatis.
+   - Pilih jenis tiket (Biasa / VIP)
+   - Pilih judul film
+   - Input jumlah tiket
+   - Hitung total harga otomatis
 
 2. **Cek Sisa Kursi**
-   - Cek kursi tersisa untuk tiket **Biasa (200 kursi)**.
-   - Cek kursi tersisa untuk tiket **VIP (30 kursi)**.
+   - Cek kursi tersisa untuk tiket **Biasa (200 kursi)**
+   - Cek kursi tersisa untuk tiket **VIP (30 kursi)**
 
 3. **Total Penjualan Tiket**
-   - Input penjualan tiket Biasa & VIP.
-   - Hitung total tiket terjual dan omzet.
+   - Input penjualan tiket Biasa & VIP
+   - Hitung total tiket terjual dan omzet
 
 4. **Keluar Program**
 
