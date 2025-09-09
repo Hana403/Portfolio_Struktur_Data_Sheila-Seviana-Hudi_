@@ -1,19 +1,19 @@
 # Toko Baju (CRUD)
 
-Program **kasir toko baju dan pencarian untuk pelanggan**.  
-Proyek ini termasuk **mini project C++** dengan penerapan konsep **OOP, Struct, Linked List, Sorting, dan Searching**.
+Program **kasir toko baju dan pencarian untuk pelanggan**  
+Proyek ini termasuk **mini project C++** dengan penerapan konsep **OOP, Struct, Linked List, Sorting, dan Searching**  
 
 ---
 
 ## Fitur
-- Tambah barang baru ke toko.
-- Edit stok barang.
-- Hapus barang tertentu atau data pertama (linked list).
-- Menampilkan daftar barang.
-- Sorting data barang (selection sort).
-- Searching barang berdasarkan nama.
-- Input dan tampilkan nota transaksi dengan total & kembalian.
-- Menu admin & user.
+- Tambah barang baru ke toko
+- Edit stok barang
+- Hapus barang tertentu atau data pertama (linked list)
+- Menampilkan daftar barang
+- Sorting data barang (selection sort)
+- Searching barang berdasarkan nama
+- Input dan tampilkan nota transaksi dengan total & kembalian
+- Menu admin & user
 
 ---
 
