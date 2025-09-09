@@ -1,6 +1,6 @@
 ## Kasir Tiket Bioskop Sederhana
 
-Program simulasi **kasir tiket bioskop** dengan menu interaktif
+Program simulasi **kasir tiket bioskop** dengan menu interaktif  
 User dapat melayani pelanggan yang ingin membeli tiket, hingga melihat total penjualan tiket
 
 ## Catatan
