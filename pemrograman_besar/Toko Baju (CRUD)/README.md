@@ -1,7 +1,7 @@
 # Toko Baju (CRUD)
 
 Program **kasir(admin) toko baju dan pencarian barang untuk pelanggan(user)**  
-Proyek ini termasuk **mini project C++** dengan penerapan konsep **OOP, Struct, Linked List, Sorting, dan Searching**  
+Proyek ini dengan penerapan konsep **OOP, Struct, Linked List, Sorting, dan Searching**  
 
 ---
 
