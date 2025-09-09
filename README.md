@@ -3,16 +3,16 @@ Portfolio Struktur Data C++ Milik Sheila Seviana Hudi
 
 # C++ Portfolio Projects
 
-Kumpulan program C++ dari pemograman sederhana hingga pemograman besar milik Sheila Seviana Hudi.   
+Kumpulan program C++ dari pemograman sederhana hingga pemograman besar milik Sheila Seviana Hudi  
 
 ## Struktur Proyek
 - `pemograman_sederhana/`
-  - **Array Ganjil Genap** → Menentukan angka ganjil & genap dengan array (versi statis & dinamis).
+  - **Array Ganjil Genap** → Menentukan angka ganjil & genap dengan array
   - **Mencari Angka** → Program pencarian angka dalam array.
 - `Pemograman_menengah/`
-  - **Kasir Tiket Bioskop Sederhana** → Sistem sederhana pembelian tiket bioskop (menu, switch-case, perhitungan).
+  - **Kasir Tiket Bioskop Sederhana** → Sistem sederhana pembelian tiket bioskop (menu, switch-case, perhitungan)
 - `Pemograman_besar/`
-  - **Toko Baju (CRUD)** → Program toko baju dengan class, struct, CRUD, sorting, searching, dan nota transaksi.
+  - **Toko Baju (CRUD)** → Program toko baju dengan class, struct, CRUD, sorting, searching, dan nota transaksi  
 
 ## Cara Menjalankan
 1. Clone repository:
