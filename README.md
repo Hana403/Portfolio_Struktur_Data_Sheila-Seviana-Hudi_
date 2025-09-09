@@ -28,4 +28,4 @@ Kumpulan program C++ dari pemograman sederhana hingga pemograman besar milik She
    ```
    ./program
 
-**Jika tidak bisa dijalankan menurut arahan, bisa menggunakan OnlineGDB untuk membantu menjalankan pemrograman**
+`**Jika tidak bisa dijalankan menurut arahan, bisa menggunakan OnlineGDB untuk membantu menjalankan pemrograman**`
