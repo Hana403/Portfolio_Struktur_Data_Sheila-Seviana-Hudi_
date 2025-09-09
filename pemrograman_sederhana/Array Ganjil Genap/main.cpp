@@ -1,5 +1,6 @@
 #include <iostream>
 #include <algorithm> // untuk Sorting
+#include <vector> // Untuk membuat pemrograman dinamis
 
 
 using namespace std; //Agar setiap kode tidak perlu berakhiran std::
@@ -8,10 +9,13 @@ using namespace std; //Agar setiap kode tidak perlu berakhiran std::
  
 int main(){
  
-    int angka[100], a, c; //Variabel a untuk menampung array
+    int a, c; //Variabel a untuk menampung array
+    
     cout << "\t Menentukan Ganjil & Genap Data Array \n";
     cout<<"Input Berapa Angka Yang Akan Dimasukan: ";
     cin>>a;
+    
+    vector<int> angka(a);  // vector otomatis menyesuaikan ukuran
     
     for(c=0; c<a; c++){
         cout<<"Masukkan Nomor Ke-"<< c+1 <<" : ";
@@ -19,7 +23,7 @@ int main(){
     }
     
     
-    sort(angka, angka + a);// Mengurutkan array ascending
+    sort(angka.begin(), angka.end());// Mengurutkan array ascending
  
     cout << "Hasil:";
  
