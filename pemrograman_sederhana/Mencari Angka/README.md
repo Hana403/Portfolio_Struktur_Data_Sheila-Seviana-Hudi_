@@ -1,4 +1,4 @@
-# Searching Array (Linear Search)
+# Array Mencari Angka (Linear Search)
 
 Program **pencarian angka dalam array** menggunakan bahasa C++  
 User bisa memasukkan sejumlah data array, lalu mencari apakah suatu angka ada di dalam urutan array tersebut  
