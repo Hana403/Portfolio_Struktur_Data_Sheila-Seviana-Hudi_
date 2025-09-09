@@ -1,14 +1,15 @@
-## Array Ganjil Genap (Sorting + Classification)
+## Array Ganjil Genap (Sorting)
 
 Program sederhana untuk:
-1. Input sejumlah angka.
-2. Mengurutkan data ascending menggunakan `#include <algorithm> sort `.
-3. Menampilkan angka genap & ganjil secara terpisah.
+1. Input sejumlah angka
+2. Mengurutkan data ascending menggunakan `#include <algorithm> sort `
+3. Array dinamis menggunakan `#include <vector> `
+4. Menampilkan angka genap & ganjil secara terpisah
 
 ## Fitur
-- Input jumlah elemen array dari user.
-- Mengurutkan data ascending.
-- Pisahkan output genap & ganjil.
+- Input jumlah elemen array dari user
+- Mengurutkan data ascending
+- Pisahkan output genap & ganjil
 
 ## Contoh Output
 
