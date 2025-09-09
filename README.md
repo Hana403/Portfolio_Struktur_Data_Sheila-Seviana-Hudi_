@@ -17,13 +17,16 @@ Semua program dijalankan di **Command Line Interface (CLI)**.
 
 ## Cara Menjalankan
 1. Clone repository:
-   ```bash
+   ```
    git clone https://github.com/Hana403/Portfolio_Struktur_Data_Sheila-Seviana-Hudi_.git
 2. Masuk ke folder project:
+   ```
    cd cpp-Portfolio_Struktur_Data_Sheila-Seviana-Hudi_/pemograman_sederhana/ganjil_genap 
-3. Compile program:
+4. Compile program:
+   ```
    g++ main.cpp -o program
-4. Jalankan program:
+6. Jalankan program:  
+   ```
    ./program
 
-## Jika tidak bisa dijalankan menurut arahan, bisa menggunakan OnlineGDB untuk membantu menjalankan pemrograman
+# Jika tidak bisa dijalankan menurut arahan, bisa menggunakan OnlineGDB untuk membantu menjalankan pemrograman
