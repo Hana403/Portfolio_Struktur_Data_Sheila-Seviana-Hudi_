@@ -10,7 +10,7 @@ Semua program dijalankan di **Command Line Interface (CLI)**.
 - `pemograman_sederhana/`
   - **Array Ganjil Genap** → Menentukan angka ganjil & genap dengan array (versi statis & dinamis).
   - **Mencari Angka** → Program pencarian angka dalam array.
-- `Pemograman_menegah/`
+- `Pemograman_menengah/`
   - **Kasir Tiket Bioskop Sederhana** → Sistem sederhana pembelian tiket bioskop (menu, switch-case, perhitungan).
 - `Pemograman_besar/`
   - **Toko Baju (CRUD)** → Program toko baju dengan class, struct, CRUD, sorting, searching, dan nota transaksi.
