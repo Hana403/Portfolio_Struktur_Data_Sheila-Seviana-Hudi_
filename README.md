@@ -3,8 +3,7 @@ Portfolio Struktur Data C++ Milik Sheila Seviana Hudi
 
 # C++ Portfolio Projects
 
-Kumpulan program C++ dari pemograman sederhana hingga pemograman besar milik Sheila Seviana Hudi.  
-Semua program dijalankan di **Command Line Interface (CLI)**.  
+Kumpulan program C++ dari pemograman sederhana hingga pemograman besar milik Sheila Seviana Hudi.   
 
 ## Struktur Proyek
 - `pemograman_sederhana/`
@@ -29,4 +28,4 @@ Semua program dijalankan di **Command Line Interface (CLI)**.
    ```
    ./program
 
-## Jika tidak bisa dijalankan menurut arahan, bisa menggunakan OnlineGDB untuk membantu menjalankan pemrograman
+**Jika tidak bisa dijalankan menurut arahan, bisa menggunakan OnlineGDB untuk membantu menjalankan pemrograman**
