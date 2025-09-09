@@ -20,7 +20,7 @@ Kumpulan program C++ dari pemograman sederhana hingga pemograman besar milik She
    git clone https://github.com/Hana403/Portfolio_Struktur_Data_Sheila-Seviana-Hudi_.git
 2. Masuk ke folder project:
    ```
-   cd cpp-Portfolio_Struktur_Data_Sheila-Seviana-Hudi_/pemograman_sederhana/ganjil_genap 
+   cd cpp-Portfolio_Struktur_Data_Sheila-Seviana-Hudi_/pemograman_sederhana/array ganjil genap 
 4. Compile program:
    ```
    g++ main.cpp -o program
