@@ -1,4 +1,4 @@
-## Cinema Ticket Booking System
+## Kasir Tiket Bioskop Sederhana
 
 Program simulasi **kasir tiket bioskop** berbasis console dengan menu interaktif.  
 User dapat melayani pelanggan yang ingin membeli tiket, hingga melihat total penjualan tiket.
